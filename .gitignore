@@ -1,0 +1,9 @@
+*.pyc
+*.jpg
+*.png
+*.bmp
+*.tiff
+backup
+tmp
+*.json
+*.py

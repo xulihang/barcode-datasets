@@ -1,0 +1,1 @@
+[{"attrib": {"Type": "EAN13"}, "text": "4062300043978", "value_attrib": {}}]
