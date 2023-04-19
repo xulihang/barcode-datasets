@@ -29,7 +29,7 @@
 					</Polygon>
 					<Value>37547-KB</Value>
 				</Barcode>
-				<Barcode Type="2-Digit">
+				<Barcode Type="Code128">
 					<Polygon>
 						<Points>
 							<Point X="790" Y="973"/>
@@ -38,7 +38,7 @@
 							<Point X="725" Y="973"/>
 						</Points>
 					</Polygon>
-					<Value>Q1</Value>
+					<Value>1</Value>
 				</Barcode>
 				<Barcode Type="Code128">
 					<Polygon>

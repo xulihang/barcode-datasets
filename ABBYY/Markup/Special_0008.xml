@@ -27,7 +27,7 @@
 							<Point X="2423" Y="778"/>
 						</Points>
 					</Polygon>
-					<Value>10	A	01	01169017	Radke	Hans	29021928	0911	8035612	0007780009	5000	1	612063600	380712103	27042009	1				M÷glinger Str. 92	Asperg	mhplus BKK	71679	61	1			27042009	0728	I25.9,		09</Value>
+					<Value>10	A	01	01169017	Radke	Hans	29021928	0911	8035612	0007780009	5000	1	612063600	380712103	27042009	1				Möglinger Str. 92	Asperg	mhplus BKK	71679	61	1			27042009	0728	I25.9,		09</Value>
 				</Barcode>
 				<Barcode Type="DataMatrix">
 					<Polygon>
