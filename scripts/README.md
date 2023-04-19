@@ -1,0 +1,1 @@
+Scripts to convert the annotations for use in the benchmark tool: <https://github.com/tony-xlh/barcode-reading-benchmark>
