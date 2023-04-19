@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0040">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="2796" Y="1506"/>
+							<Point X="3125" Y="1506"/>
+							<Point X="3125" Y="1845"/>
+							<Point X="2796" Y="1845"/>
+						</Points>
+					</Polygon>
+					<Value>http://lottatd.ru/kontakty</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0074">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="UCC128">
+					<Polygon>
+						<Points>
+							<Point X="42" Y="303"/>
+							<Point X="314" Y="310"/>
+							<Point X="314" Y="382"/>
+							<Point X="36" Y="374"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="UCC128">
+					<Polygon>
+						<Points>
+							<Point X="23" Y="427"/>
+							<Point X="237" Y="433"/>
+							<Point X="237" Y="528"/>
+							<Point X="18" Y="516"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

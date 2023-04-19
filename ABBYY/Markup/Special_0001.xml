@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0001">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="1251" Y="393"/>
+							<Point X="1299" Y="393"/>
+							<Point X="1293" Y="1076"/>
+							<Point X="1245" Y="1074"/>
+						</Points>
+					</Polygon>
+					<Value>PF0UFLRHPF9XB7625009</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="1342" Y="392"/>
+							<Point X="1437" Y="389"/>
+							<Point X="1430" Y="1084"/>
+							<Point X="1341" Y="1080"/>
+						</Points>
+					</Polygon>
+					<Value>1S80WK00F9USPF0UFLRH</Value>
+				</Barcode>
+				<Barcode Type="EAN13">
+					<Polygon>
+						<Points>
+							<Point X="752" Y="783"/>
+							<Point X="857" Y="784"/>
+							<Point X="850" Y="1034"/>
+							<Point X="746" Y="1031"/>
+						</Points>
+					</Polygon>
+					<Value>191376651924</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="1112" Y="712"/>
+							<Point X="1193" Y="714"/>
+							<Point X="1193" Y="1074"/>
+							<Point X="1107" Y="1069"/>
+						</Points>
+					</Polygon>
+					<Value>SPF0UFLRH</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="1092" Y="259"/>
+							<Point X="1243" Y="255"/>
+							<Point X="1239" Y="405"/>
+							<Point X="1087" Y="406"/>
+						</Points>
+					</Polygon>
+					<Value>(S)SN
+SPF0UFLRH
+SN.MO
+PF0UFLRHPF9XB7625009
+(1S)MTM.SN
+1S80WK00F9USPF0UFLRH</Value>
+				</Barcode>
+				<Barcode Type="UPCA">
+					<Polygon>
+						<Points>
+							<Point X="757" Y="297"/>
+							<Point X="847" Y="296"/>
+							<Point X="843" Y="544"/>
+							<Point X="754" Y="544"/>
+						</Points>
+					</Polygon>
+					<Value>191376651924</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

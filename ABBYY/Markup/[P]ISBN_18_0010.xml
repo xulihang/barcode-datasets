@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0010">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="EAN13">
+					<Polygon>
+						<Points>
+							<Point X="1801" Y="1715"/>
+							<Point X="2326" Y="1725"/>
+							<Point X="2306" Y="2478"/>
+							<Point X="1787" Y="2466"/>
+						</Points>
+					</Polygon>
+					<Value>9789855792650</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="1202" Y="689"/>
+							<Point X="1610" Y="689"/>
+							<Point X="1610" Y="1101"/>
+							<Point X="1202" Y="1101"/>
+						</Points>
+					</Polygon>
+					<Value>http://kuzma.by/catalogue</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

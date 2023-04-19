@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0074">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="EAN13">
+					<Polygon>
+						<Points>
+							<Point X="270" Y="612"/>
+							<Point X="374" Y="611"/>
+							<Point X="377" Y="911"/>
+							<Point X="268" Y="911"/>
+						</Points>
+					</Polygon>
+					<Value>705689632657</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="249" Y="983"/>
+							<Point X="393" Y="983"/>
+							<Point X="393" Y="1128"/>
+							<Point X="249" Y="1128"/>
+						</Points>
+					</Polygon>
+					<Value>http://fiction.eksmo.ru/</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

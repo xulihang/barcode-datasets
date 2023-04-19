@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0002">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Aztec">
+					<Polygon>
+						<Points>
+							<Point X="272" Y="905"/>
+							<Point X="275" Y="1072"/>
+							<Point X="110" Y="1073"/>
+							<Point X="106" Y="908"/>
+						</Points>
+					</Polygon>
+					<Value>01;Reservierung;;;4;82777870;6342;258483;140110;8000774;8000207;809720041544;2</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

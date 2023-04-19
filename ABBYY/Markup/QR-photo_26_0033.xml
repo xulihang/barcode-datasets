@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0037">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="301" Y="1424"/>
+							<Point X="1206" Y="1424"/>
+							<Point X="1216" Y="2277"/>
+							<Point X="351" Y="2297"/>
+						</Points>
+					</Polygon>
+					<Value>http://qr.mos.ru/101441</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

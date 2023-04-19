@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0039">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="1182" Y="1367"/>
+							<Point X="1675" Y="1367"/>
+							<Point X="1675" Y="1828"/>
+							<Point X="1182" Y="1828"/>
+						</Points>
+					</Polygon>
+					<Value>https://www.wakanim.tv/activate</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

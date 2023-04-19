@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0223">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Code39">
+					<Polygon>
+						<Points>
+							<Point X="232" Y="220"/>
+							<Point X="232" Y="1258"/>
+							<Point X="95" Y="1257"/>
+							<Point X="98" Y="221"/>
+						</Points>
+					</Polygon>
+					<Value>3894673</Value>
+				</Barcode>
+				<Barcode Type="Code39">
+					<Polygon>
+						<Points>
+							<Point X="1037" Y="198"/>
+							<Point X="1169" Y="199"/>
+							<Point X="1176" Y="1252"/>
+							<Point X="1037" Y="1250"/>
+						</Points>
+					</Polygon>
+					<Value>3894673</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="1262" Y="2365"/>
+							<Point X="1572" Y="2375"/>
+							<Point X="1569" Y="2692"/>
+							<Point X="1263" Y="2676"/>
+						</Points>
+					</Polygon>
+					<Value>http://westbus.at/de/status/3894673/9fc4b7bc0a56a6df612065fc7219647f</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="358" Y="2337"/>
+							<Point X="655" Y="2348"/>
+							<Point X="654" Y="2651"/>
+							<Point X="357" Y="2647"/>
+						</Points>
+					</Polygon>
+					<Value>http://westbus.at/de/status/3894673/9fc4b7bc0a56a6df612065fc7219647f</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="362" Y="154"/>
+							<Point X="558" Y="154"/>
+							<Point X="558" Y="354"/>
+							<Point X="368" Y="356"/>
+						</Points>
+					</Polygon>
+					<Value>3894673</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="1440" Y="127"/>
+							<Point X="1634" Y="127"/>
+							<Point X="1634" Y="324"/>
+							<Point X="1440" Y="330"/>
+						</Points>
+					</Polygon>
+					<Value>3894673</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

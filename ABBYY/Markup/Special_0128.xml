@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0128">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Aztec">
+					<Polygon>
+						<Points>
+							<Point X="287" Y="2194"/>
+							<Point X="281" Y="2310"/>
+							<Point X="172" Y="2312"/>
+							<Point X="178" Y="2197"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

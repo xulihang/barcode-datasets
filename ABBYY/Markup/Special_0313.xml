@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0313">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Aztec">
+					<Polygon>
+						<Points>
+							<Point X="237" Y="423"/>
+							<Point X="531" Y="423"/>
+							<Point X="531" Y="717"/>
+							<Point X="236" Y="717"/>
+						</Points>
+					</Polygon>
+					<Value>M1GUSEVA/OLGA VASILIEVEORSIRD ARHSVOSU 1331 077Y008A0017 162&gt;5320WW8076BSU                                        2A55521433383860    SU 50212035            N</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

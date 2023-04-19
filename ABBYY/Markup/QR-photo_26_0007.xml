@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0008">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="359" Y="981"/>
+							<Point X="980" Y="981"/>
+							<Point X="980" Y="1602"/>
+							<Point X="364" Y="1617"/>
+						</Points>
+					</Polygon>
+					<Value>BEGIN:VCARD
+VERSION:3.0
+N:Игорь Нежданов
+ORG:Group-IB
+TITLE:Технический руководитель направления BRAND POINT Protection
+TEL:+79166110488
+EMAIL:nejdanov@group-ib.ru
+END:VCARD</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

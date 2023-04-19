@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0014">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="PDF417">
+					<Polygon>
+						<Points>
+							<Point X="2274" Y="175"/>
+							<Point X="2274" Y="405"/>
+							<Point X="1226" Y="405"/>
+							<Point X="1226" Y="176"/>
+						</Points>
+					</Polygon>
+					<Value>**1*1*1*2*3**</Value>
+				</Barcode>
+				<Barcode Type="PDF417">
+					<Polygon>
+						<Points>
+							<Point X="2314" Y="606"/>
+							<Point X="2314" Y="1082"/>
+							<Point X="290" Y="1078"/>
+							<Point X="291" Y="603"/>
+						</Points>
+					</Polygon>
+					<Value>ocuments&gt;· Model AS1 - Sol·licitud relativa a ascensors amb marcatge CE· Model AS2 - Declaració 'CE' de conformitat de l'aparell elevador-ascensor· Model AS3 - Acta d'assaigs de control final d'aparells elevadors-ascensors amb marcatge CE· Model AS4 - Llista de components de seguretat d'aparells elevadors-ascensors amb marcatge CE· Expedient tècnic· Plànol d'emplaçament i situació· Contracte de manteniment· Fotocòpia DNI o NIF del/de la titular&lt;/Documents&gt;&lt;/AS1&gt;&lt;AS2&gt;&lt;Dades_Ascensor&gt;&lt;Num_RAE/&gt;&lt;/Dades_Ascensor&gt;&lt;Dades_Declaracio&gt;&lt;Num_Declaracio&gt;123456&lt;/Num_Declaracio&gt;&lt;Nom&gt;Pepito&lt;/Nom&gt;&lt;Primer_Cognom&gt;de los palotes&lt;/Primer_Cognom&gt;&lt;Segon_Cognom/&gt;&lt;Carrec&gt;Representant de XXXXXXX&lt;/Carrec&gt;&lt;/Dades_Declaracio&gt;&lt;Dades_Instalador&gt;&lt;NIF&gt;34766624P&lt;/NIF&gt;&lt;Nom&gt;Instalador nom&lt;/Nom&gt;&lt;Primer_Cognom&gt;instalador cog&lt;/Primer_Cognom&gt;&lt;Segon_Cognom/&gt;&lt;Adreca_Local&gt;&lt;Tipus_Via&gt;AV.&lt;/Tipus_Via&gt;&lt;Adreca&gt;pedralbes &lt;/Adreca&gt;&lt;Nu</Value>
+				</Barcode>
+				<Barcode Type="PDF417">
+					<Polygon>
+						<Points>
+							<Point X="2318" Y="1128"/>
+							<Point X="2318" Y="1616"/>
+							<Point X="288" Y="1616"/>
+							<Point X="288" Y="1119"/>
+						</Points>
+					</Polygon>
+					<Value>m&gt;125&lt;/Num&gt;&lt;Esc_Pis_Porta/&gt;&lt;Provincia&gt;17&lt;/Provincia&gt;&lt;CP&gt;17002&lt;/CP&gt;&lt;Poblacio&gt;1181&lt;/Poblacio&gt;&lt;/Adreca_Local&gt;&lt;/Dades_Instalador&gt;&lt;Dades_Qualificat&gt;&lt;Check_2op&gt;&lt;Op1&gt;0&lt;/Op1&gt;&lt;Op2&gt;1&lt;/Op2&gt;&lt;OpMarcado&gt;1&lt;/OpMarcado&gt;&lt;/Check_2op&gt;&lt;Norma_UNE/&gt;&lt;/Dades_Qualificat&gt;&lt;Caracteristiques_AS2&gt;&lt;Carac_Ascensor&gt;&lt;Marca&gt;Orona&lt;/Marca&gt;&lt;Model&gt;Model Orona &lt;/Model&gt;&lt;Num_Serie&gt;numserie 123456&lt;/Num_Serie&gt;&lt;/Carac_Ascensor&gt;&lt;Any_Instalacio&gt;2009&lt;/Any_Instalacio&gt;&lt;/Caracteristiques_AS2&gt;&lt;Dades_Instalacio&gt;&lt;Adreca_Local&gt;&lt;Tipus_Via&gt;C.&lt;/Tipus_Via&gt;&lt;Adreca&gt;terre &lt;/Adreca&gt;&lt;Num&gt;11-19&lt;/Num&gt;&lt;Esc_Pis_Porta/&gt;&lt;Provincia&gt;08&lt;/Provincia&gt;&lt;CP&gt;08210&lt;/CP&gt;&lt;Poblacio&gt;2520&lt;/Poblacio&gt;&lt;/Adreca_Local&gt;&lt;/Dades_Instalacio&gt;&lt;Normes&gt;&lt;Check_2op&gt;&lt;Op1&gt;1&lt;/Op1&gt;&lt;Op2&gt;0&lt;/Op2&gt;&lt;OpMarcado&gt;0&lt;/OpMarcado&gt;&lt;/Check_2op&gt;&lt;Descripcio_Norma/&gt;&lt;Tipus_Normes&gt;&lt;Check_2op&gt;&lt;Op1&gt;0&lt;/Op1&gt;&lt;Op2&gt;1&lt;/Op2&gt;&lt;OpMarcado&gt;1&lt;/OpMarcado&gt;&lt;/Check_2op&gt;&lt;chkAltres&gt;0&lt;/chkAltres&gt;&lt;Norma_Altres/&gt;&lt;/Tipus_Normes&gt;&lt;/Normes</Value>
+				</Barcode>
+				<Barcode Type="PDF417">
+					<Polygon>
+						<Points>
+							<Point X="2316" Y="1660"/>
+							<Point X="2316" Y="2136"/>
+							<Point X="288" Y="2136"/>
+							<Point X="288" Y="1661"/>
+						</Points>
+					</Polygon>
+					<Value>&gt;&lt;Conformitat&gt;&lt;Op1&gt;0&lt;/Op1&gt;&lt;Op2&gt;0&lt;/Op2&gt;&lt;Annex_V&gt;&lt;Tipus_Ascensor&gt;&lt;Op1&gt;0&lt;/Op1&gt;&lt;Op2&gt;0&lt;/Op2&gt;&lt;OpMarcado&gt;-1&lt;/OpMarcado&gt;&lt;/Tipus_Ascensor&gt;&lt;Nom_Org/&gt;&lt;Adreca_Org/&gt;&lt;Num_Org/&gt;&lt;Examen_CE/&gt;&lt;/Annex_V&gt;&lt;Annex_XIII&gt;&lt;Nom_Org/&gt;&lt;Adreca_Org/&gt;&lt;Num_Org/&gt;&lt;/Annex_XIII&gt;&lt;/Conformitat&gt;&lt;Conformitat2&gt;&lt;Op3&gt;0&lt;/Op3&gt;&lt;Op4&gt;0&lt;/Op4&gt;&lt;Op5&gt;1&lt;/Op5&gt;&lt;Op6&gt;0&lt;/Op6&gt;&lt;Annex_XIII_NoConf&gt;&lt;Op1&gt;0&lt;/Op1&gt;&lt;Nom_Org/&gt;&lt;Adreca_Org/&gt;&lt;Num_Org/&gt;&lt;Examen_CE/&gt;&lt;/Annex_XIII_NoConf&gt;&lt;Annex_VI&gt;&lt;Nom_Org/&gt;&lt;Adreca_Org/&gt;&lt;Num_Org/&gt;&lt;/Annex_VI&gt;&lt;Annex_XII&gt;&lt;Tipus_Annex&gt;&lt;Op1&gt;0&lt;/Op1&gt;&lt;Op2&gt;0&lt;/Op2&gt;&lt;OpMarcado&gt;-1&lt;/OpMarcado&gt;&lt;/Tipus_Annex&gt;&lt;Nom_Org/&gt;&lt;Adreca_Org/&gt;&lt;Num_Org/&gt;&lt;Examen_CE/&gt;&lt;/Annex_XII&gt;&lt;Annex_X&gt;&lt;Nom_Org&gt;0213&lt;/Nom_Org&gt;&lt;Adreca_Org&gt;Terre 11 - 19&lt;/Adreca_Org&gt;&lt;Num_Org&gt;0099&lt;/Num_Org&gt;&lt;/Annex_X&gt;&lt;Annex_XIII_2&gt;&lt;Nom_Org/&gt;&lt;Adreca_Org/&gt;&lt;Num_Org/&gt;&lt;Annex_XIII_2_NoConf&gt;&lt;Op1&gt;0&lt;/Op1&gt;&lt;Nom_Org/&gt;&lt;Adreca_Org/&gt;&lt;Num_Org/&gt;&lt;Examen_CE/&gt;&lt;/Annex_XIII_2_NoConf&gt;&lt;/Annex_XIII_2&gt;&lt;/Conformitat2&gt;&lt;Observa</Value>
+				</Barcode>
+				<Barcode Type="PDF417">
+					<Polygon>
+						<Points>
+							<Point X="2312" Y="2178"/>
+							<Point X="2312" Y="2670"/>
+							<Point X="286" Y="2670"/>
+							<Point X="286" Y="2179"/>
+						</Points>
+					</Polygon>
+					<Value>cions/&gt;&lt;Signatura&gt;&lt;Lloc&gt;SAP Balmes&lt;/Lloc&gt;&lt;Data&gt;19/01/2009&lt;/Data&gt;&lt;/Signatura&gt;&lt;/AS2&gt;&lt;AS3&gt;&lt;Acta_Assaig_1&gt;&lt;Dades_Ascensor&gt;&lt;Num_RAE/&gt;&lt;/Dades_Ascensor&gt;&lt;Dades_Responsable&gt;&lt;Nom/&gt;&lt;Primer_Cognom/&gt;&lt;Segon_Cognom/&gt;&lt;Carrec/&gt;&lt;/Dades_Responsable&gt;&lt;Nom_Instalador&gt;&lt;Nom/&gt;&lt;Primer_Cognom/&gt;&lt;Segon_Cognom/&gt;&lt;/Nom_Instalador&gt;&lt;Norma_UNE/&gt;&lt;Dades_Instalacio&gt;&lt;Adreca_Local&gt;&lt;Tipus_Via/&gt;&lt;Adreca/&gt;&lt;Num/&gt;&lt;Esc_Pis_Porta/&gt;&lt;Provincia/&gt;&lt;CP/&gt;&lt;Poblacio/&gt;&lt;/Adreca_Local&gt;&lt;/Dades_Instalacio&gt;&lt;Num_Serie/&gt;&lt;Annex_Assaig&gt;&lt;Op1&gt;0&lt;/Op1&gt;&lt;Op2&gt;0&lt;/Op2&gt;&lt;OpMarcado&gt;-1&lt;/OpMarcado&gt;&lt;/Annex_Assaig&gt;&lt;Assaig_Final&gt;&lt;Op1&gt;0&lt;/Op1&gt;&lt;Op2&gt;0&lt;/Op2&gt;&lt;/Assaig_Final&gt;&lt;Observacions/&gt;&lt;Signatura&gt;&lt;Lloc/&gt;&lt;Data/&gt;&lt;/Signatura&gt;&lt;/Acta_Assaig_1&gt;&lt;Acta_Assaig_2&gt;&lt;Dades_Ascensor&gt;&lt;Num_RAE/&gt;&lt;/Dades_Ascensor&gt;&lt;Dades_Responsable&gt;&lt;Nom&gt;Perico&lt;/Nom&gt;&lt;Primer_Cognom&gt;Palotes&lt;/Primer_Cognom&gt;&lt;Segon_Cognom/&gt;&lt;Carrec&gt;Carreg de PPPPPP&lt;/Carrec&gt;&lt;/Dades_Responsable&gt;&lt;Tipus_Control&gt;&lt;Op1&gt;0&lt;/Op1&gt;&lt;Op2&gt;1&lt;/Op2&gt;&lt;</Value>
+				</Barcode>
+				<Barcode Type="PDF417">
+					<Polygon>
+						<Points>
+							<Point X="2322" Y="2710"/>
+							<Point X="2322" Y="3198"/>
+							<Point X="294" Y="3198"/>
+							<Point X="294" Y="2711"/>
+						</Points>
+					</Polygon>
+					<Value>/Tipus_Control&gt;&lt;Nom_Instalador&gt;&lt;Nom/&gt;&lt;Primer_Cognom/&gt;&lt;Segon_Cognom/&gt;&lt;/Nom_Instalador&gt;&lt;Norma_UNE/&gt;&lt;Dades_Organisme&gt;&lt;Num_Organisme&gt;0099&lt;/Num_Organisme&gt;&lt;Nom_Organisme&gt;0213&lt;/Nom_Organisme&gt;&lt;/Dades_Organisme&gt;&lt;Dades_Instalacio&gt;&lt;Adreca_Local&gt;&lt;Tipus_Via&gt;C.&lt;/Tipus_Via&gt;&lt;Adreca&gt;terre &lt;/Adreca&gt;&lt;Num&gt;11-19&lt;/Num&gt;&lt;Esc_Pis_Porta/&gt;&lt;Provincia&gt;08&lt;/Provincia&gt;&lt;CP&gt;08210&lt;/CP&gt;&lt;Poblacio&gt;2520&lt;/Poblacio&gt;&lt;/Adreca_Local&gt;&lt;/Dades_Instalacio&gt;&lt;Num_Serie&gt;numserie 123456&lt;/Num_Serie&gt;&lt;Tipus_Accionament&gt;&lt;Op1&gt;0&lt;/Op1&gt;&lt;Op2&gt;1&lt;/Op2&gt;&lt;OpMarcado&gt;1&lt;/OpMarcado&gt;&lt;/Tipus_Accionament&gt;&lt;Requisits_Annex&gt;&lt;Op1&gt;0&lt;/Op1&gt;&lt;Op2&gt;1&lt;/Op2&gt;&lt;Op3&gt;0&lt;/Op3&gt;&lt;OpMarcado&gt;1&lt;/OpMarcado&gt;&lt;/Requisits_Annex&gt;&lt;Observacions/&gt;&lt;Signatura&gt;&lt;Lloc&gt;Sap BALMES&lt;/Lloc&gt;&lt;Data&gt;19/01/2009&lt;/Data&gt;&lt;/Signatura&gt;&lt;/Acta_Assaig_2&gt;&lt;/AS3&gt;&lt;AS4&gt;&lt;Dades_Ascensor&gt;&lt;Num_RAE/&gt;&lt;/Dades_Ascensor&gt;&lt;Dades_Instalacio&gt;&lt;Adreca_Local&gt;&lt;Tipus_Via&gt;C.&lt;/Tipus_Via&gt;&lt;Adreca&gt;terre &lt;/Adreca&gt;&lt;Num&gt;11-19&lt;/Num&gt;&lt;Esc_Pis_Porta/&gt;&lt;P</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

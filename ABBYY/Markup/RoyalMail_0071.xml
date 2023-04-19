@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0071">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="RoyalMailCode">
+					<Polygon>
+						<Points>
+							<Point X="1473" Y="1382"/>
+							<Point X="1538" Y="1382"/>
+							<Point X="1538" Y="1951"/>
+							<Point X="1473" Y="1951"/>
+						</Points>
+					</Polygon>
+					<Value>2123456ABCH</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

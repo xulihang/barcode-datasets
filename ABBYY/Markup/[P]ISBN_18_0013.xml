@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0013">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="EAN13">
+					<Polygon>
+						<Points>
+							<Point X="1054" Y="2323"/>
+							<Point X="1836" Y="2355"/>
+							<Point X="1816" Y="2930"/>
+							<Point X="1027" Y="2896"/>
+						</Points>
+					</Polygon>
+					<Value>9785947743876</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

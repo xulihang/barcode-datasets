@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0294">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="PDF417">
+					<Polygon>
+						<Points>
+							<Point X="244" Y="864"/>
+							<Point X="363" Y="864"/>
+							<Point X="364" Y="1278"/>
+							<Point X="245" Y="1278"/>
+						</Points>
+					</Polygon>
+					<Value>M1GUSEVA/OLGAMS       EFYFHTM SVOHELSU 0203 206Y007C0005 100</Value>
+				</Barcode>
+				<Barcode Type="PDF417">
+					<Polygon>
+						<Points>
+							<Point X="254" Y="2604"/>
+							<Point X="373" Y="2604"/>
+							<Point X="373" Y="3017"/>
+							<Point X="254" Y="3017"/>
+						</Points>
+					</Polygon>
+					<Value>M1GUSEVA/OLGAMS       EFYFHTM SVOHELSU 0203 206Y007C0005 100</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

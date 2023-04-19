@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0063">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="1086" Y="597"/>
+							<Point X="1796" Y="632"/>
+							<Point X="1788" Y="1348"/>
+							<Point X="1080" Y="1336"/>
+						</Points>
+					</Polygon>
+					<Value>t=20180623T064500&amp;s=0.00&amp;fn=8712000101124527&amp;i=45283&amp;fp=4242403792&amp;n=1</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

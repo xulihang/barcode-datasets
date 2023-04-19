@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0024">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="2982" Y="1416"/>
+							<Point X="3319" Y="1416"/>
+							<Point X="3319" Y="1746"/>
+							<Point X="2982" Y="1746"/>
+						</Points>
+					</Polygon>
+					<Value>http://finland.fi/public/default.aspx?culture=ru-RU&amp;contentlan=15</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

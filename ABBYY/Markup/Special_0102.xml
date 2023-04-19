@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0102">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="PDF417">
+					<Polygon>
+						<Points>
+							<Point X="195" Y="185"/>
+							<Point X="385" Y="219"/>
+							<Point X="312" Y="564"/>
+							<Point X="112" Y="525"/>
+						</Points>
+					</Polygon>
+					<Value>M1GUSEVA/OLGAMS       E69E9BM HELFRALH 0853 195M022A0093 355&gt;2180KO2195BLH              262204593663548  LH LH 999900906369099  *30600000005     </Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

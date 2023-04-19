@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0217">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="EAN13">
+					<Polygon>
+						<Points>
+							<Point X="3206" Y="1124"/>
+							<Point X="3705" Y="1129"/>
+							<Point X="3709" Y="1303"/>
+							<Point X="3210" Y="1295"/>
+						</Points>
+					</Polygon>
+					<Value>3300046095020</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="3593" Y="157"/>
+							<Point X="3908" Y="163"/>
+							<Point X="3924" Y="471"/>
+							<Point X="3602" Y="470"/>
+						</Points>
+					</Polygon>
+					<Value>http://www.chipdip.ru/</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

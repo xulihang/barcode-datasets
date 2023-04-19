@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0017">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="269" Y="446"/>
+							<Point X="325" Y="446"/>
+							<Point X="325" Y="489"/>
+							<Point X="268" Y="488"/>
+						</Points>
+					</Polygon>
+					<Value>^																		</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="327" Y="145"/>
+							<Point X="327" Y="187"/>
+							<Point X="271" Y="187"/>
+							<Point X="271" Y="144"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="271" Y="194"/>
+							<Point X="327" Y="194"/>
+							<Point X="327" Y="236"/>
+							<Point X="271" Y="236"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="270" Y="243"/>
+							<Point X="327" Y="243"/>
+							<Point X="327" Y="286"/>
+							<Point X="270" Y="286"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="270" Y="293"/>
+							<Point X="326" Y="293"/>
+							<Point X="326" Y="336"/>
+							<Point X="270" Y="336"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="270" Y="344"/>
+							<Point X="326" Y="344"/>
+							<Point X="326" Y="387"/>
+							<Point X="270" Y="387"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="269" Y="394"/>
+							<Point X="326" Y="394"/>
+							<Point X="326" Y="438"/>
+							<Point X="269" Y="438"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

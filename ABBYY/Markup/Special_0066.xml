@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0066">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Interleaved25">
+					<Polygon>
+						<Points>
+							<Point X="475" Y="381"/>
+							<Point X="677" Y="382"/>
+							<Point X="676" Y="416"/>
+							<Point X="475" Y="415"/>
+						</Points>
+					</Polygon>
+					<Value>0053681549</Value>
+				</Barcode>
+				<Barcode Type="UPCA">
+					<Polygon>
+						<Points>
+							<Point X="201" Y="44"/>
+							<Point X="397" Y="42"/>
+							<Point X="397" Y="109"/>
+							<Point X="202" Y="111"/>
+						</Points>
+					</Polygon>
+					<Value>672792100611</Value>
+				</Barcode>
+				<Barcode Type="EAN13">
+					<Polygon>
+						<Points>
+							<Point X="207" Y="151"/>
+							<Point X="402" Y="149"/>
+							<Point X="402" Y="220"/>
+							<Point X="206" Y="222"/>
+						</Points>
+					</Polygon>
+					<Value>4710423775947</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="118" Y="329"/>
+							<Point X="452" Y="327"/>
+							<Point X="454" Y="354"/>
+							<Point X="118" Y="359"/>
+						</Points>
+					</Polygon>
+					<Value>A9A9-007AA-0034</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

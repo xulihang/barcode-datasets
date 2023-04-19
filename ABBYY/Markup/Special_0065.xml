@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0065">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="UPCA">
+					<Polygon>
+						<Points>
+							<Point X="374" Y="135"/>
+							<Point X="596" Y="137"/>
+							<Point X="595" Y="298"/>
+							<Point X="371" Y="296"/>
+						</Points>
+					</Polygon>
+					<Value>690590028678</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="91" Y="185"/>
+							<Point X="251" Y="185"/>
+							<Point X="251" Y="217"/>
+							<Point X="91" Y="216"/>
+						</Points>
+					</Polygon>
+					<Value>357654062100964</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="92" Y="132"/>
+							<Point X="252" Y="132"/>
+							<Point X="252" Y="164"/>
+							<Point X="92" Y="164"/>
+						</Points>
+					</Polygon>
+					<Value>357654062100956</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="92" Y="78"/>
+							<Point X="238" Y="79"/>
+							<Point X="237" Y="111"/>
+							<Point X="91" Y="110"/>
+						</Points>
+					</Polygon>
+					<Value>SG150700048</Value>
+				</Barcode>
+				<Barcode Type="Interleaved25">
+					<Polygon>
+						<Points>
+							<Point X="629" Y="141"/>
+							<Point X="654" Y="141"/>
+							<Point X="652" Y="279"/>
+							<Point X="627" Y="278"/>
+						</Points>
+					</Polygon>
+					<Value>0067708915</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="205" Y="245"/>
+							<Point X="205" Y="319"/>
+							<Point X="133" Y="319"/>
+							<Point X="133" Y="246"/>
+						</Points>
+					</Polygon>
+					<Value>502867,AC50OXP,16GB,SG150700048,357654062100956,357654062100964</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

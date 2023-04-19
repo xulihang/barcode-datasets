@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0098">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="370" Y="1660"/>
+							<Point X="605" Y="1664"/>
+							<Point X="590" Y="1910"/>
+							<Point X="355" Y="1906"/>
+						</Points>
+					</Polygon>
+					<Value>https://burgerking.ru/orderapp</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

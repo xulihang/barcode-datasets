@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0011">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="451" Y="404"/>
+							<Point X="1018" Y="394"/>
+							<Point X="1023" Y="954"/>
+							<Point X="456" Y="975"/>
+						</Points>
+					</Polygon>
+					<Value>http://www.deloitte.com/view/en_LU/lu/library/publications-whitepapers/services/consulting/13a87ba240bf5410VgnVCM3000003456f70aRCRD.htm</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

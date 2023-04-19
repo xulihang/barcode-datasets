@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0234">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Code39">
+					<Polygon>
+						<Points>
+							<Point X="1064" Y="416"/>
+							<Point X="1449" Y="420"/>
+							<Point X="1440" Y="561"/>
+							<Point X="1058" Y="557"/>
+						</Points>
+					</Polygon>
+					<Value>6WKWK</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="349" Y="1058"/>
+							<Point X="691" Y="1063"/>
+							<Point X="689" Y="1151"/>
+							<Point X="348" Y="1144"/>
+						</Points>
+					</Polygon>
+					<Value>4ZQ67S1</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="712" Y="820"/>
+							<Point X="881" Y="823"/>
+							<Point X="876" Y="910"/>
+							<Point X="712" Y="906"/>
+						</Points>
+					</Polygon>
+					<Value>A07</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="91" Y="803"/>
+							<Point X="586" Y="815"/>
+							<Point X="584" Y="904"/>
+							<Point X="92" Y="894"/>
+						</Points>
+					</Polygon>
+					<Value>CN06WKWK722154340022</Value>
+				</Barcode>
+				<Barcode Type="UPCA">
+					<Polygon>
+						<Points>
+							<Point X="1067" Y="34"/>
+							<Point X="1492" Y="43"/>
+							<Point X="1486" Y="182"/>
+							<Point X="1061" Y="177"/>
+						</Points>
+					</Polygon>
+					<Value>884116081159</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

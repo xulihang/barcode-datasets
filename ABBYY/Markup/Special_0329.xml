@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0329">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="408" Y="459"/>
+							<Point X="477" Y="461"/>
+							<Point X="453" Y="1088"/>
+							<Point X="388" Y="1087"/>
+						</Points>
+					</Polygon>
+					<Value>6RA70826FV620Z+X01</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="1076" Y="809"/>
+							<Point X="1139" Y="811"/>
+							<Point X="1124" Y="1102"/>
+							<Point X="1064" Y="1099"/>
+						</Points>
+					</Polygon>
+					<Value>37547-KB</Value>
+				</Barcode>
+				<Barcode Type="2-Digit">
+					<Polygon>
+						<Points>
+							<Point X="790" Y="973"/>
+							<Point X="787" Y="1093"/>
+							<Point X="723" Y="1094"/>
+							<Point X="725" Y="973"/>
+						</Points>
+					</Polygon>
+					<Value>Q1</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="581" Y="467"/>
+							<Point X="646" Y="470"/>
+							<Point X="622" Y="1090"/>
+							<Point X="558" Y="1091"/>
+						</Points>
+					</Polygon>
+					<Value>6RA70826FV620Z+X01</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

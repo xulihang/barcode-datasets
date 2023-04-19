@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0020">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="2128" Y="163"/>
+							<Point X="2309" Y="174"/>
+							<Point X="2297" Y="358"/>
+							<Point X="2118" Y="349"/>
+						</Points>
+					</Polygon>
+					<Value>SPS;SL;1;5793;Private;0;;0;NORMALSCAN;EV</Value>
+				</Barcode>
+				<Barcode Type="Interleaved25">
+					<Polygon>
+						<Points>
+							<Point X="2327" Y="160"/>
+							<Point X="2386" Y="163"/>
+							<Point X="2374" Y="364"/>
+							<Point X="2315" Y="361"/>
+						</Points>
+					</Polygon>
+					<Value>01</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="298" Y="2565"/>
+							<Point X="298" Y="2625"/>
+							<Point X="239" Y="2625"/>
+							<Point X="239" Y="2566"/>
+						</Points>
+					</Polygon>
+					<Value>TNG</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="350" Y="3172"/>
+							<Point X="350" Y="3300"/>
+							<Point X="222" Y="3300"/>
+							<Point X="222" Y="3173"/>
+						</Points>
+					</Polygon>
+					<Value>00104491962119O30113110617213701BOZONM</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

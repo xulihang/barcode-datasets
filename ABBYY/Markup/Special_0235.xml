@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0235">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="181" Y="367"/>
+							<Point X="344" Y="371"/>
+							<Point X="344" Y="392"/>
+							<Point X="178" Y="387"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="EAN13">
+					<Polygon>
+						<Points>
+							<Point X="509" Y="411"/>
+							<Point X="513" Y="435"/>
+							<Point X="378" Y="432"/>
+							<Point X="379" Y="408"/>
+						</Points>
+					</Polygon>
+					<Value>4716659247586</Value>
+				</Barcode>
+				<Barcode Type="UPCA">
+					<Polygon>
+						<Points>
+							<Point X="381" Y="477"/>
+							<Point X="522" Y="480"/>
+							<Point X="526" Y="507"/>
+							<Point X="381" Y="503"/>
+						</Points>
+					</Polygon>
+					<Value>886227247585</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="171" Y="420"/>
+							<Point X="355" Y="424"/>
+							<Point X="355" Y="444"/>
+							<Point X="166" Y="440"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="158" Y="487"/>
+							<Point X="337" Y="492"/>
+							<Point X="336" Y="522"/>
+							<Point X="152" Y="518"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="147" Y="557"/>
+							<Point X="360" Y="562"/>
+							<Point X="360" Y="591"/>
+							<Point X="141" Y="584"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="416" Y="563"/>
+							<Point X="519" Y="565"/>
+							<Point X="523" Y="593"/>
+							<Point X="417" Y="591"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

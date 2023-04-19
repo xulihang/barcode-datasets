@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0044">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="332" Y="2203"/>
+							<Point X="703" Y="2193"/>
+							<Point X="716" Y="2544"/>
+							<Point X="339" Y="2576"/>
+						</Points>
+					</Polygon>
+					<Value>http://p.green-solutions.net/8859248669</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

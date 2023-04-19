@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0253">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="358" Y="2104"/>
+							<Point X="1548" Y="2104"/>
+							<Point X="1548" Y="2228"/>
+							<Point X="358" Y="2228"/>
+						</Points>
+					</Polygon>
+					<Value>577166030001168090011205223050172183926630910494170423</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="359" Y="935"/>
+							<Point X="1549" Y="935"/>
+							<Point X="1545" Y="1053"/>
+							<Point X="359" Y="1059"/>
+						</Points>
+					</Polygon>
+					<Value>577166030001168090011205202050172183926630910290170223</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="355" Y="3296"/>
+							<Point X="1535" Y="3292"/>
+							<Point X="1535" Y="3416"/>
+							<Point X="355" Y="3420"/>
+						</Points>
+					</Polygon>
+					<Value>577166030001168090011205244050172183926630910698170623</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="2066" Y="138"/>
+							<Point X="2336" Y="138"/>
+							<Point X="2336" Y="408"/>
+							<Point X="2066" Y="408"/>
+						</Points>
+					</Polygon>
+					<Value>BCD
+001
+2
+SCT
+NDEAFIHH
+Verohallinto
+FI7716603000116809
+EUR1120.52
+
+RF0250172183926630910290
+
+ReqdExctnDt/2017-02-23
+</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="2068" Y="2391"/>
+							<Point X="2338" Y="2391"/>
+							<Point X="2338" Y="2660"/>
+							<Point X="2068" Y="2660"/>
+						</Points>
+					</Polygon>
+					<Value>BCD
+001
+2
+SCT
+NDEAFIHH
+Verohallinto
+FI7716603000116809
+EUR1120.52
+
+RF4450172183926630910698
+
+ReqdExctnDt/2017-06-23
+</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="2063" Y="1227"/>
+							<Point X="2335" Y="1225"/>
+							<Point X="2337" Y="1498"/>
+							<Point X="2061" Y="1498"/>
+						</Points>
+					</Polygon>
+					<Value>BCD
+001
+2
+SCT
+NDEAFIHH
+Verohallinto
+FI7716603000116809
+EUR1120.52
+
+RF2350172183926630910494
+
+ReqdExctnDt/2017-04-23
+</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

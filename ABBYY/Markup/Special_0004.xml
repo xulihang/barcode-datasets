@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0004">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="1357" Y="64"/>
+							<Point X="1357" Y="164"/>
+							<Point X="1258" Y="164"/>
+							<Point X="1258" Y="65"/>
+						</Points>
+					</Polygon>
+					<Value>05002854+223905+0+ohneSV+FVA_JTM</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

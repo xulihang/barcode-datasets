@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0279">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="IATA25">
+					<Polygon>
+						<Points>
+							<Point X="611" Y="961"/>
+							<Point X="1486" Y="966"/>
+							<Point X="1485" Y="1035"/>
+							<Point X="611" Y="1029"/>
+						</Points>
+					</Polygon>
+					<Value>100061884831500</Value>
+				</Barcode>
+				<Barcode Type="IATA25">
+					<Polygon>
+						<Points>
+							<Point X="622" Y="2133"/>
+							<Point X="1495" Y="2131"/>
+							<Point X="1494" Y="2199"/>
+							<Point X="622" Y="2201"/>
+						</Points>
+					</Polygon>
+					<Value>100061891639910</Value>
+				</Barcode>
+				<Barcode Type="IATA25">
+					<Polygon>
+						<Points>
+							<Point X="634" Y="3250"/>
+							<Point X="1508" Y="3253"/>
+							<Point X="1507" Y="3321"/>
+							<Point X="635" Y="3318"/>
+						</Points>
+					</Polygon>
+					<Value>100061891639921</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

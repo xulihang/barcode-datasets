@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0059">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="EAN13">
+					<Polygon>
+						<Points>
+							<Point X="814" Y="2891"/>
+							<Point X="1785" Y="2847"/>
+							<Point X="1768" Y="3433"/>
+							<Point X="818" Y="3506"/>
+						</Points>
+					</Polygon>
+					<Value>6417700059209</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="1098" Y="2180"/>
+							<Point X="1481" Y="2180"/>
+							<Point X="1481" Y="2578"/>
+							<Point X="1098" Y="2583"/>
+						</Points>
+					</Polygon>
+					<Value>http://www.myllynparas.ru/product/ovsyanaya-myllyn-paras?utm_source=oat+porridge&amp;utm_medium=QR&amp;utm_campaign=packaging</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

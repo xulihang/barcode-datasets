@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0009">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="1191" Y="737"/>
+							<Point X="1682" Y="737"/>
+							<Point X="1682" Y="1244"/>
+							<Point X="1186" Y="1244"/>
+						</Points>
+					</Polygon>
+					<Value>http://q-r.to/bag91E</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0251">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Interleaved25">
+					<Polygon>
+						<Points>
+							<Point X="1254" Y="2263"/>
+							<Point X="1830" Y="2265"/>
+							<Point X="1829" Y="2393"/>
+							<Point X="1255" Y="2393"/>
+						</Points>
+					</Polygon>
+					<Value>0001000000028515</Value>
+				</Barcode>
+				<Barcode Type="Code39">
+					<Polygon>
+						<Points>
+							<Point X="327" Y="2260"/>
+							<Point X="808" Y="2262"/>
+							<Point X="809" Y="2391"/>
+							<Point X="327" Y="2389"/>
+						</Points>
+					</Polygon>
+					<Value>002002500</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="738" Y="167"/>
+							<Point X="1660" Y="169"/>
+							<Point X="1661" Y="280"/>
+							<Point X="739" Y="278"/>
+						</Points>
+					</Polygon>
+					<Value>182077071400040327871821060101003100011000045382000000104900</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="2349" Y="168"/>
+							<Point X="3274" Y="170"/>
+							<Point X="3277" Y="282"/>
+							<Point X="2350" Y="281"/>
+						</Points>
+					</Polygon>
+					<Value>182077071400040327951821060101003200011000045382000000007053</Value>
+				</Barcode>
+				<Barcode Type="PDF417">
+					<Polygon>
+						<Points>
+							<Point X="864" Y="1551"/>
+							<Point X="1551" Y="1553"/>
+							<Point X="1551" Y="1692"/>
+							<Point X="864" Y="1692"/>
+						</Points>
+					</Polygon>
+					<Value>PD4Nalog|CP1251|18857070|18207707140004032787|13|├≤±σΓα ╬δⁿπα ┬ ≈σ±δαΓεΓφα|╠Φ≤±±Ωα  1-  ≤δ, 2, ╤╥╨.1, 9, π. ╠ε±ΩΓα|770702331800|1049.00|╬╥─┼╦┼═╚┼ 1 ╠╬╤╩┬└|044583001||╙∩≡αΓδσφΦσ ⌠σΣσ≡αδⁿφεπε Ωατφα≈σΘ±≥Γα ∩ε π.╠ε±ΩΓσ|40101810800000010041|7707081688|770901001|18210601010031000110|45382000|╥╨|16.01.2015|0|</Value>
+				</Barcode>
+				<Barcode Type="PDF417">
+					<Polygon>
+						<Points>
+							<Point X="2474" Y="1554"/>
+							<Point X="3163" Y="1554"/>
+							<Point X="3165" Y="1693"/>
+							<Point X="2474" Y="1691"/>
+						</Points>
+					</Polygon>
+					<Value>PD4Nalog|CP1251|18857071|18207707140004032795|13|├≤±σΓα ╬δⁿπα ┬ ≈σ±δαΓεΓφα|╠Φ≤±±Ωα  1-  ≤δ, 2, ╤╥╨.1, 9, π. ╠ε±ΩΓα|770702331800|70.53|╬╥─┼╦┼═╚┼ 1 ╠╬╤╩┬└|044583001||╙∩≡αΓδσφΦσ ⌠σΣσ≡αδⁿφεπε Ωατφα≈σΘ±≥Γα ∩ε π.╠ε±ΩΓσ|40101810800000010041|7707081688|770901001|18210601010032000110|45382000|╥╨|16.01.2015|╧┼|</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

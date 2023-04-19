@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0170">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Code39">
+					<Polygon>
+						<Points>
+							<Point X="108" Y="733"/>
+							<Point X="868" Y="738"/>
+							<Point X="868" Y="847"/>
+							<Point X="108" Y="840"/>
+						</Points>
+					</Polygon>
+					<Value>0E12240031</Value>
+				</Barcode>
+				<Barcode Type="Code39">
+					<Polygon>
+						<Points>
+							<Point X="111" Y="530"/>
+							<Point X="1061" Y="538"/>
+							<Point X="1059" Y="644"/>
+							<Point X="108" Y="635"/>
+						</Points>
+					</Polygon>
+					<Value> SRASYS-350-R</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

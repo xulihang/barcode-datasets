@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0097">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="EAN13">
+					<Polygon>
+						<Points>
+							<Point X="355" Y="653"/>
+							<Point X="462" Y="653"/>
+							<Point X="465" Y="959"/>
+							<Point X="358" Y="959"/>
+						</Points>
+					</Polygon>
+					<Value>9785170944187</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="355" Y="300"/>
+							<Point X="505" Y="300"/>
+							<Point X="505" Y="451"/>
+							<Point X="354" Y="451"/>
+						</Points>
+					</Polygon>
+					<Value>http://shop.ast.ru</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

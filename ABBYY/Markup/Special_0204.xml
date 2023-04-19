@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0204">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="1127" Y="100"/>
+							<Point X="1212" Y="97"/>
+							<Point X="1184" Y="1008"/>
+							<Point X="1103" Y="1003"/>
+						</Points>
+					</Polygon>
+					<Value>QX-6800H-A 0001253</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

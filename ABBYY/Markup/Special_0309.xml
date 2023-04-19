@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0071">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="220" Y="124"/>
+							<Point X="271" Y="124"/>
+							<Point X="271" Y="163"/>
+							<Point X="220" Y="163"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="220" Y="169"/>
+							<Point X="271" Y="169"/>
+							<Point X="271" Y="210"/>
+							<Point X="220" Y="210"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="220" Y="216"/>
+							<Point X="271" Y="216"/>
+							<Point X="271" Y="254"/>
+							<Point X="220" Y="254"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="220" Y="260"/>
+							<Point X="270" Y="260"/>
+							<Point X="270" Y="300"/>
+							<Point X="220" Y="300"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="219" Y="307"/>
+							<Point X="270" Y="307"/>
+							<Point X="270" Y="346"/>
+							<Point X="219" Y="346"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="219" Y="352"/>
+							<Point X="270" Y="352"/>
+							<Point X="270" Y="391"/>
+							<Point X="219" Y="391"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="219" Y="398"/>
+							<Point X="270" Y="398"/>
+							<Point X="270" Y="437"/>
+							<Point X="219" Y="437"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

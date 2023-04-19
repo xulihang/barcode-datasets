@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0054">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="2749" Y="1120"/>
+							<Point X="2749" Y="1342"/>
+							<Point X="2519" Y="1339"/>
+							<Point X="2519" Y="1121"/>
+						</Points>
+					</Polygon>
+					<Value>http://decathlon.ru/qr/8382193
+</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

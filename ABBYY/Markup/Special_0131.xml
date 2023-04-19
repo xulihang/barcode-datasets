@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0131">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="822" Y="81"/>
+							<Point X="964" Y="89"/>
+							<Point X="967" Y="125"/>
+							<Point X="823" Y="118"/>
+						</Points>
+					</Polygon>
+					<Value>401</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="347" Y="137"/>
+							<Point X="753" Y="152"/>
+							<Point X="754" Y="237"/>
+							<Point X="347" Y="232"/>
+						</Points>
+					</Polygon>
+					<Value>383740450301</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="559" Y="297"/>
+							<Point X="990" Y="297"/>
+							<Point X="990" Y="357"/>
+							<Point X="559" Y="359"/>
+						</Points>
+					</Polygon>
+					<Value>3837404503</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="146" Y="589"/>
+							<Point X="914" Y="552"/>
+							<Point X="916" Y="627"/>
+							<Point X="149" Y="675"/>
+						</Points>
+					</Polygon>
+					<Value>104000000000388768</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

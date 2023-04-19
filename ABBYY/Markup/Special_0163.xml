@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0163">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="664" Y="366"/>
+							<Point X="664" Y="451"/>
+							<Point X="256" Y="460"/>
+							<Point X="256" Y="375"/>
+						</Points>
+					</Polygon>
+					<Value>DTK2200</Value>
+				</Barcode>
+				<Barcode Type="Code39">
+					<Polygon>
+						<Points>
+							<Point X="357" Y="795"/>
+							<Point X="693" Y="791"/>
+							<Point X="693" Y="848"/>
+							<Point X="359" Y="853"/>
+						</Points>
+					</Polygon>
+					<Value>6CAC000010</Value>
+				</Barcode>
+				<Barcode Type="Code39">
+					<Polygon>
+						<Points>
+							<Point X="799" Y="529"/>
+							<Point X="799" Y="617"/>
+							<Point X="130" Y="622"/>
+							<Point X="128" Y="539"/>
+						</Points>
+					</Polygon>
+					<Value>0DTK-2200/K0-AX</Value>
+				</Barcode>
+				<Barcode Type="UPCA">
+					<Polygon>
+						<Points>
+							<Point X="998" Y="376"/>
+							<Point X="1409" Y="368"/>
+							<Point X="1414" Y="535"/>
+							<Point X="1001" Y="543"/>
+						</Points>
+					</Polygon>
+					<Value>753218992024</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

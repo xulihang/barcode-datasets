@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0295">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="2051" Y="169"/>
+							<Point X="2309" Y="169"/>
+							<Point X="2310" Y="433"/>
+							<Point X="2047" Y="429"/>
+						</Points>
+					</Polygon>
+					<Value>http://weatlas.com</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

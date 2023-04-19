@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0065">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="EAN13">
+					<Polygon>
+						<Points>
+							<Point X="273" Y="3048"/>
+							<Point X="657" Y="3048"/>
+							<Point X="657" Y="3222"/>
+							<Point X="273" Y="3222"/>
+						</Points>
+					</Polygon>
+					<Value>9785445406754</Value>
+				</Barcode>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="263" Y="2795"/>
+							<Point X="706" Y="2801"/>
+							<Point X="701" Y="2877"/>
+							<Point X="263" Y="2871"/>
+						</Points>
+					</Polygon>
+					<Value>20454755086612700260</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="714" Y="3017"/>
+							<Point X="960" Y="3015"/>
+							<Point X="959" Y="3257"/>
+							<Point X="716" Y="3255"/>
+						</Points>
+					</Polygon>
+					<Value>www.n-obr.ru</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

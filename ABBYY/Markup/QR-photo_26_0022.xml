@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0023">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="2105" Y="577"/>
+							<Point X="2595" Y="567"/>
+							<Point X="2595" Y="1036"/>
+							<Point X="2105" Y="1036"/>
+						</Points>
+					</Polygon>
+					<Value>https://vk.com/grand_cinema.moskva</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0012">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="PDF417">
+					<Polygon>
+						<Points>
+							<Point X="500" Y="1615"/>
+							<Point X="2140" Y="1622"/>
+							<Point X="2143" Y="1953"/>
+							<Point X="500" Y="1953"/>
+						</Points>
+					</Polygon>
+					<Value>DEMO
+
+&lt;?xml version="1.0" encoding="ISO-8859-1" ?&gt;&lt;document&gt;&lt;doc_id&gt;6348167099199158320&lt;/doc_id&gt;&lt;type&gt;&lt;name&gt;mpr_claim_document&lt;/name&gt;&lt;/type&gt;&lt;attr&gt;&lt;name&gt;cod_agt&lt;/name&gt;&lt;val&gt;45002&lt;/val&gt;&lt;/attr&gt;&lt;attr&gt;&lt;name&gt;num_sini&lt;/name&gt;&lt;val&gt;20121201309&lt;/val&gt;&lt;/attr&gt;&lt;attr&gt;&lt;name&gt;cod_docum&lt;/name&gt;&lt;val&gt;IND&lt;/val&gt;&lt;/attr&gt;&lt;attr&gt;&lt;name&gt;document_date&lt;/name&gt;&lt;val&gt;08/27/2012&lt;/val&gt;&lt;/attr&gt;&lt;attr&gt;&lt;name&gt;fecha_emi_end&lt;/name&gt;&lt;val&gt;6/30/2011 12:00:00 AM&lt;/val&gt;&lt;/attr&gt;&lt;attr&gt;&lt;name&gt;num_docum&lt;/name&gt;&lt;val&gt;CGL6912634&lt;/val&gt;&lt;/attr&gt;&lt;attr&gt;&lt;name&gt;num_spto&lt;/name&gt;&lt;val&gt;12&lt;/val&gt;&lt;/attr&gt;&lt;attr&gt;&lt;name&gt;ap1_tercero&lt;/name&gt;&lt;val&gt;MUNICIPALITIES OF PUERTO RICO&lt;/val&gt;&lt;/attr&gt;&lt;attr&gt;&lt;name&gt;num_poliza&lt;/name&gt;&lt;val&gt;1100861100007&lt;/val&gt;&lt;/attr&gt;&lt;attr&gt;&lt;name&gt;num_exp&lt;/name&gt;&lt;val&gt;0&lt;/val&gt;&lt;/attr&gt;&lt;attr&gt;&lt;name&gt;user_id&lt;/name&gt;&lt;val&gt;vmunoz&lt;/val&gt;&lt;/attr&gt;&lt;rmPgFg&gt;true&lt;/rmPgFg&gt;&lt;/document&gt;</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

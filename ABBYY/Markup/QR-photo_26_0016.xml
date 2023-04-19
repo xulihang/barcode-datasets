@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0017">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="993" Y="46"/>
+							<Point X="1330" Y="46"/>
+							<Point X="1330" Y="383"/>
+							<Point X="993" Y="383"/>
+						</Points>
+					</Polygon>
+					<Value>http://www.mykupino.ru</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

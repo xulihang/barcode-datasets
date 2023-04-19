@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0319">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="JapanPost">
+					<Polygon>
+						<Points>
+							<Point X="1438" Y="380"/>
+							<Point X="1464" Y="1625"/>
+							<Point X="1405" Y="1629"/>
+							<Point X="1380" Y="382"/>
+						</Points>
+					</Polygon>
+					<Value>1608790819</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="2493" Y="1257"/>
+							<Point X="2743" Y="1248"/>
+							<Point X="2748" Y="1494"/>
+							<Point X="2496" Y="1506"/>
+						</Points>
+					</Polygon>
+					<Value>http://m.diy.co.jp/index.php?mmtba=LE9</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0071">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="64" Y="380"/>
+							<Point X="694" Y="386"/>
+							<Point X="692" Y="439"/>
+							<Point X="65" Y="437"/>
+						</Points>
+					</Polygon>
+					<Value>EX571005H101      CF 0001</Value>
+				</Barcode>
+				<Barcode Type="PDF417">
+					<Polygon>
+						<Points>
+							<Point X="402" Y="215"/>
+							<Point X="727" Y="222"/>
+							<Point X="723" Y="285"/>
+							<Point X="401" Y="278"/>
+						</Points>
+					</Polygon>
+					<Value>[)&gt;06:AS:PNEX571005H101:QT1:DM170623:LTCF:*[]</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

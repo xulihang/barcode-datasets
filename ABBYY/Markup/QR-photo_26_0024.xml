@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0026">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="2995" Y="960"/>
+							<Point X="3145" Y="1353"/>
+							<Point X="2736" Y="1483"/>
+							<Point X="2586" Y="1090"/>
+						</Points>
+					</Polygon>
+					<Value>http://redmond.company/qrlink/?str=d1befdeb111e1c3c1263636b40d21a47&amp;m=%D0%93%D1%80%D0%B8%D0%BB%D1%8C
+</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

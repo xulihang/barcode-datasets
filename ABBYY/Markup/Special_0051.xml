@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0051">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Aztec">
+					<Polygon>
+						<Points>
+							<Point X="151" Y="318"/>
+							<Point X="344" Y="320"/>
+							<Point X="342" Y="503"/>
+							<Point X="151" Y="500"/>
+						</Points>
+					</Polygon>
+					<Value Mode="binary">0020001400C200080010005E005E005E0080005E005E005E005E0004000700EA00C400D8000F00D5005F006B009800A50080005E005E005E005E0002005E005E005E005E005E005E005E005E0006005E005E005E005E000A0060005E005E005E005E005E005E008B006500230018004000E500C000010067008F00370004000800BC000E007C</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

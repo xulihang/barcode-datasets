@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0016">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="1183" Y="906"/>
+							<Point X="1183" Y="1200"/>
+							<Point X="890" Y="1200"/>
+							<Point X="890" Y="907"/>
+						</Points>
+					</Polygon>
+					<Value>http://вотчтояскажу.рф/</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

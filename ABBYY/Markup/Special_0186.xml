@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0186">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="979" Y="1163"/>
+							<Point X="1081" Y="1161"/>
+							<Point X="1086" Y="1271"/>
+							<Point X="983" Y="1273"/>
+						</Points>
+					</Polygon>
+					<Value>http://qr.inbody.com/ri/120/adult/en</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

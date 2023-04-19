@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0008">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Interleaved25">
+					<Polygon>
+						<Points>
+							<Point X="2183" Y="444"/>
+							<Point X="2190" Y="645"/>
+							<Point X="1821" Y="660"/>
+							<Point X="1812" Y="458"/>
+						</Points>
+					</Polygon>
+					<Value>01169017</Value>
+				</Barcode>
+				<Barcode Type="PDF417">
+					<Polygon>
+						<Points>
+							<Point X="3097" Y="780"/>
+							<Point X="3100" Y="969"/>
+							<Point X="2424" Y="967"/>
+							<Point X="2423" Y="778"/>
+						</Points>
+					</Polygon>
+					<Value>10	A	01	01169017	Radke	Hans	29021928	0911	8035612	0007780009	5000	1	612063600	380712103	27042009	1				M÷glinger Str. 92	Asperg	mhplus BKK	71679	61	1			27042009	0728	I25.9,		09</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="3161" Y="153"/>
+							<Point X="3165" Y="312"/>
+							<Point X="3009" Y="310"/>
+							<Point X="3006" Y="151"/>
+						</Points>
+					</Polygon>
+					<Value>M10A1008</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0022">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="EAN13">
+					<Polygon>
+						<Points>
+							<Point X="241" Y="2186"/>
+							<Point X="609" Y="2186"/>
+							<Point X="609" Y="2359"/>
+							<Point X="241" Y="2359"/>
+						</Points>
+					</Polygon>
+					<Value>9785961461787</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="1189" Y="2217"/>
+							<Point X="1365" Y="2217"/>
+							<Point X="1365" Y="2393"/>
+							<Point X="1189" Y="2393"/>
+						</Points>
+					</Polygon>
+					<Value>http://www.hub.alpinabook.ru/</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

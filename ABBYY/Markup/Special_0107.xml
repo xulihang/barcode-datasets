@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0107">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="PDF417">
+					<Polygon>
+						<Points>
+							<Point X="1426" Y="423"/>
+							<Point X="1579" Y="424"/>
+							<Point X="1576" Y="708"/>
+							<Point X="1420" Y="709"/>
+						</Points>
+					</Polygon>
+					<Value>M1GUSEV/GEORGY        EYCMC2D HELSVOSU 2201 297Y016A0028  48&gt;2180      B                29             0 AY AY 678535600           8</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

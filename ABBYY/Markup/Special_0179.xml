@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0179">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="404" Y="233"/>
+							<Point X="404" Y="256"/>
+							<Point X="255" Y="256"/>
+							<Point X="255" Y="234"/>
+						</Points>
+					</Polygon>
+					<Value>6026105550</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="166" Y="61"/>
+							<Point X="283" Y="61"/>
+							<Point X="284" Y="111"/>
+							<Point X="166" Y="110"/>
+						</Points>
+					</Polygon>
+					<Value>ED1ACFRARS000000006026105550103FRFR1502069901</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="1364" Y="1827"/>
+							<Point X="1496" Y="1821"/>
+							<Point X="1500" Y="1883"/>
+							<Point X="1370" Y="1891"/>
+						</Points>
+					</Polygon>
+					<Value>ED4ACFRARS000000006026105550103FRFR1502069901</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="1330" Y="65"/>
+							<Point X="1334" Y="113"/>
+							<Point X="1221" Y="117"/>
+							<Point X="1218" Y="67"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="1261" Y="333"/>
+							<Point X="1265" Y="374"/>
+							<Point X="1145" Y="377"/>
+							<Point X="1142" Y="336"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="1459" Y="518"/>
+							<Point X="1475" Y="625"/>
+							<Point X="1437" Y="626"/>
+							<Point X="1419" Y="519"/>
+						</Points>
+					</Polygon>
+					<Value>^</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

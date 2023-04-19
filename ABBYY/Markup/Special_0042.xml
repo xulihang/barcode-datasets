@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0042">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="JapanPost">
+					<Polygon>
+						<Points>
+							<Point X="1996" Y="480"/>
+							<Point X="2049" Y="482"/>
+							<Point X="2042" Y="1579"/>
+							<Point X="1991" Y="1578"/>
+						</Points>
+					</Polygon>
+					<Value>1348790075</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="3252" Y="1629"/>
+							<Point X="3440" Y="1630"/>
+							<Point X="3439" Y="1818"/>
+							<Point X="3251" Y="1816"/>
+						</Points>
+					</Polygon>
+					<Value>https://business.form-mailer.jp/fms/7fc57af918132</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

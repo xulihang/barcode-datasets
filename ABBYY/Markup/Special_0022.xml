@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0022">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Code128">
+					<Polygon>
+						<Points>
+							<Point X="1549" Y="1916"/>
+							<Point X="2079" Y="1916"/>
+							<Point X="2078" Y="2153"/>
+							<Point X="1548" Y="2153"/>
+						</Points>
+					</Polygon>
+					<Value>90029075</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="317" Y="3054"/>
+							<Point X="1203" Y="3054"/>
+							<Point X="1203" Y="3945"/>
+							<Point X="317" Y="3945"/>
+						</Points>
+					</Polygon>
+					<Value>Projekt Verdi
+K_Ausführungsrapport</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

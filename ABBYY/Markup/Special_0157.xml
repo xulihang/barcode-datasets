@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0157">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="DataMatrix">
+					<Polygon>
+						<Points>
+							<Point X="1326" Y="319"/>
+							<Point X="1420" Y="316"/>
+							<Point X="1429" Y="394"/>
+							<Point X="1330" Y="393"/>
+						</Points>
+					</Polygon>
+					<Value>L5Q8D7UDT000905</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

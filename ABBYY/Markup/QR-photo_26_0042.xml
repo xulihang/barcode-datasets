@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0046">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="1659" Y="910"/>
+							<Point X="1655" Y="1256"/>
+							<Point X="1313" Y="1256"/>
+							<Point X="1313" Y="911"/>
+						</Points>
+					</Polygon>
+					<Value>http://www.uneco.ru/hudozhestvennoe-oformlenie-transformatornyh-podstanciy</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

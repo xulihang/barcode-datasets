@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0332">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="JapanPost">
+					<Polygon>
+						<Points>
+							<Point X="1773" Y="1401"/>
+							<Point X="1776" Y="1472"/>
+							<Point X="314" Y="1515"/>
+							<Point X="310" Y="1441"/>
+						</Points>
+					</Polygon>
+					<Value>0608787</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

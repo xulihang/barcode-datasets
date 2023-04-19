@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0015">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="283" Y="562"/>
+							<Point X="1191" Y="566"/>
+							<Point X="1191" Y="1474"/>
+							<Point X="293" Y="1474"/>
+						</Points>
+					</Polygon>
+					<Value>https://timepad.ru/tv/907883/?d=S8YHeu0TD7BRFh%2BQAeAihfAxWj1NyqVuGTJ3kl2lFJBSfS9plWttVR0zUJAOh42eI%2BEX2Nnx9F2XeCgXKfZgcQ%3D%3D</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

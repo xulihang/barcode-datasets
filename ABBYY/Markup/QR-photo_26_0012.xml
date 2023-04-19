@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0013">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="209" Y="948"/>
+							<Point X="647" Y="948"/>
+							<Point X="647" Y="1376"/>
+							<Point X="209" Y="1376"/>
+						</Points>
+					</Polygon>
+					<Value>http://www.arts-museum.ru/</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

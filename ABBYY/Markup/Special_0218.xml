@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0218">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Interleaved25">
+					<Polygon>
+						<Points>
+							<Point X="1872" Y="168"/>
+							<Point X="2212" Y="169"/>
+							<Point X="2211" Y="259"/>
+							<Point X="1872" Y="259"/>
+						</Points>
+					</Polygon>
+					<Value>0002999340260134</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="163" Y="1083"/>
+							<Point X="388" Y="1083"/>
+							<Point X="382" Y="1295"/>
+							<Point X="156" Y="1296"/>
+						</Points>
+					</Polygon>
+					<Value>https://help.003.ru/BPI0ZO</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

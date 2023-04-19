@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0012">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="710" Y="403"/>
+							<Point X="710" Y="883"/>
+							<Point X="213" Y="883"/>
+							<Point X="213" Y="404"/>
+						</Points>
+					</Polygon>
+					<Value>http://mob.rsb.ru/getapp</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

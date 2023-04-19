@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0124">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="1498" Y="611"/>
+							<Point X="1689" Y="597"/>
+							<Point X="1697" Y="783"/>
+							<Point X="1505" Y="795"/>
+						</Points>
+					</Polygon>
+					<Value>0385EB02EEF880B5D611B593CFB91776B3FD95DFAAECCFD5F3F7EE754E54881C512017051913260720170520030000000655350006553500065535000010007</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0010">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="802" Y="1169"/>
+							<Point X="1175" Y="1169"/>
+							<Point X="1175" Y="1536"/>
+							<Point X="802" Y="1536"/>
+						</Points>
+					</Polygon>
+					<Value>http://www.moleskine.com/en/presentation</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

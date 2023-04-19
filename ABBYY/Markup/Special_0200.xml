@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0200">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Aztec">
+					<Polygon>
+						<Points>
+							<Point X="1277" Y="845"/>
+							<Point X="1484" Y="847"/>
+							<Point X="1497" Y="1052"/>
+							<Point X="1286" Y="1049"/>
+						</Points>
+					</Polygon>
+					<Value>i0CVQQRASF868166762121113/02/1983FRLLEFRPNO0705827/090029090165031036818            HOORENS             MAXIME2PR110          00000</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

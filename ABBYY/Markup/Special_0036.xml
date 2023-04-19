@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0036">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="JapanPost">
+					<Polygon>
+						<Points>
+							<Point X="152" Y="832"/>
+							<Point X="1039" Y="832"/>
+							<Point X="1039" Y="875"/>
+							<Point X="152" Y="875"/>
+						</Points>
+					</Polygon>
+					<Value>7808790</Value>
+				</Barcode>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="947" Y="1385"/>
+							<Point X="1119" Y="1384"/>
+							<Point X="1119" Y="1559"/>
+							<Point X="946" Y="1557"/>
+						</Points>
+					</Polygon>
+					<Value>土佐中・高等学校同窓会【公式HP】
+
+携帯からの参加申し込みは、こちらからお願いします！
+
+http://www.tosaobog.com/sanka/
+
+お会いできるのを楽しみにしております。
+</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

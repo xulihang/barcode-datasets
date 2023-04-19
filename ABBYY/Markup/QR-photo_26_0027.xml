@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0031">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="150" Y="1925"/>
+							<Point X="675" Y="1925"/>
+							<Point X="675" Y="2445"/>
+							<Point X="150" Y="2445"/>
+						</Points>
+					</Polygon>
+					<Value>http://bit.ly/2nxZV9O</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

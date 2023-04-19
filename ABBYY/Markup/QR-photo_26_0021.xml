@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0022">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="QRCode">
+					<Polygon>
+						<Points>
+							<Point X="407" Y="1170"/>
+							<Point X="1476" Y="1227"/>
+							<Point X="1366" Y="2174"/>
+							<Point X="408" Y="2155"/>
+						</Points>
+					</Polygon>
+					<Value>https://ru.wikipedia.org/wiki/Вейгела</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>

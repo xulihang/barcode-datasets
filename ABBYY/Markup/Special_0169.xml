@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Result>
+	<Pages>
+		<Page Id="0169">
+			<Timings>
+				<Time>0</Time>
+				<Latency>0</Latency>
+			</Timings>
+			<Barcodes>
+				<Barcode Type="Code39">
+					<Polygon>
+						<Points>
+							<Point X="103" Y="327"/>
+							<Point X="420" Y="330"/>
+							<Point X="420" Y="364"/>
+							<Point X="103" Y="361"/>
+						</Points>
+					</Polygon>
+					<Value>GV-N760OC-2GD</Value>
+				</Barcode>
+				<Barcode Type="UCC128">
+					<Polygon>
+						<Points>
+							<Point X="103" Y="555"/>
+							<Point X="340" Y="559"/>
+							<Point X="339" Y="587"/>
+							<Point X="103" Y="581"/>
+						</Points>
+					</Polygon>
+					<Value>SN133501010924</Value>
+				</Barcode>
+				<Barcode Type="EAN13">
+					<Polygon>
+						<Points>
+							<Point X="183" Y="272"/>
+							<Point X="340" Y="273"/>
+							<Point X="340" Y="308"/>
+							<Point X="182" Y="307"/>
+						</Points>
+					</Polygon>
+					<Value>4719331323264</Value>
+				</Barcode>
+			</Barcodes>
+		</Page>
+	</Pages>
+</Result>
