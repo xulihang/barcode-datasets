@@ -1,0 +1,1 @@
+[{"attrib": {"Type": "PDF417"}, "text": "22N00001CPZL59NU3RF3TG7505160060647395G2TZP9YZ88AJI75RBMTNI3JOKXUGFU", "value_attrib": {}, "x1": "741", "y1": "103", "x2": "751", "y2": "221", "x3": "450", "y3": "236", "x4": "450", "y4": "116"}]

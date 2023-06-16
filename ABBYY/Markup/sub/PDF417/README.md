@@ -1,0 +1,1 @@
+For this article: [What are the Best PDF417 Reading SDKs?](https://www.dynamsoft.com/codepool/pdf417-reading-benchmark-and-comparison.html)
