@@ -1,0 +1,1 @@
+[{"text":"00124D","attrib":{"Type":"DATAMATRIX"},"value_attrib":{},"x1":172,"x2":242,"x3":244,"x4":174,"y1":350,"y2":348,"y3":417,"y4":419},{"text":"001E20","attrib":{"Type":"DATAMATRIX"},"value_attrib":{},"x1":631,"x2":699,"x3":701,"x4":633,"y1":253,"y2":251,"y3":317,"y4":319}]

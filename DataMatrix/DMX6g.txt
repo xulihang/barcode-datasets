@@ -1,0 +1,1 @@
+[{"text":"HLI4Ch63200Ch36400Ch200C0Ch12100CS59A00000000000000000000","attrib":{"Type":"DATAMATRIX"},"value_attrib":{},"x1":93,"x2":199,"x3":197,"x4":87,"y1":67,"y2":52,"y3":153,"y4":164},{"text":"C05A00CS71","attrib":{"Type":"DATAMATRIX"},"value_attrib":{},"x1":164,"x2":244,"x3":244,"x4":167,"y1":259,"y2":250,"y3":324,"y4":327}]

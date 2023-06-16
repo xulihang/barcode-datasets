@@ -1,0 +1,1 @@
+[{"text":"AQ741 - PO E117 987#UT","attrib":{"Type":"DATAMATRIX"},"value_attrib":{},"x1":32,"x2":142,"x3":143,"x4":33,"y1":8,"y2":7,"y3":110,"y4":111}]

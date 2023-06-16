@@ -1,0 +1,1 @@
+[{"text":"http://bk.dk/4506B/31223/nz","attrib":{"Type":"DATAMATRIX"},"value_attrib":{},"x1":142,"x2":212,"x3":212,"x4":142,"y1":62,"y2":62,"y3":132,"y4":132}]

@@ -1,0 +1,1 @@
+[{"text":"ABCDEFG0123456789","attrib":{"Type":"DATAMATRIX"},"value_attrib":{},"x1":37,"x2":125,"x3":126,"x4":38,"y1":27,"y2":26,"y3":111,"y4":112}]

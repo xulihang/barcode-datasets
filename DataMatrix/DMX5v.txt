@@ -1,0 +1,1 @@
+[{"text":"MNL1X3L917GAA23063362","attrib":{"Type":"DATAMATRIX"},"value_attrib":{},"x1":474,"x2":477,"x3":577,"x4":574,"y1":297,"y2":198,"y3":201,"y4":300},{"text":"PSAFA7X3C21275","attrib":{"Type":"DATAMATRIX"},"value_attrib":{},"x1":99,"x2":103,"x3":174,"x4":170,"y1":380,"y2":309,"y3":313,"y4":384}]

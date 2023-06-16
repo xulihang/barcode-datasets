@@ -1,0 +1,1 @@
+[{"text":"CN0H718CH5C007CR066ZA00","attrib":{"Type":"DATAMATRIX"},"value_attrib":{},"x1":690,"x2":876,"x3":672,"x4":494,"y1":766,"y2":952,"y3":1144,"y4":948}]

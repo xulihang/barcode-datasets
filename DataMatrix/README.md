@@ -1,0 +1,1 @@
+For this article: [What are the Best Data Matrix Reading SDKs?](https://www.dynamsoft.com/codepool/data-matrix-reading-benchmark-and-comparison.html)

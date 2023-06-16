@@ -1,0 +1,1 @@
+[{"text":"Wikipedia, the free encyclopedia","attrib":{"Type":"DATAMATRIX"},"value_attrib":{},"x1":290,"x2":364,"x3":363,"x4":290,"y1":107,"y2":114,"y3":196,"y4":189}]
